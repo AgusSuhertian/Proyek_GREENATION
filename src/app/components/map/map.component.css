@@ -1,0 +1,15 @@
+.map-container {
+    border: 2px solid green;
+    padding: 8px;
+    border-radius: 8px;
+    overflow: hidden;         /* Cegah isi keluar */
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+  
+  #map {
+    height: 600px;
+    width: 700px;
+  }
+  
